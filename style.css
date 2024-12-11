@@ -1,0 +1,23 @@
+body {
+    background-color:#D5E7F2;
+    font-family: "Poppins", sans-serif;
+    font-size: medium;
+}
+.ParPingui{
+    width: 200px;
+    border-radius: 50px;
+}
+.Pinguino{
+    width: 183px;
+    border-radius: 50px;
+}
+.Menu{
+background-color: #95AFBF;
+
+}
+h2{
+text-align: center;
+}
+.video{
+background-image: url(https://img.freepik.com/vector-premium/fondo-nieve-nevadas-invierno-copos-nieve-blancos-cielo-azul-fondo-navidad-caida-nieve_160081-1702.jpg?w=740);
+}
